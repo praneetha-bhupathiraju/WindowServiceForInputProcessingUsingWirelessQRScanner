@@ -1,0 +1,3 @@
+21-01-2025 18:23:59: [DEBUG] Reloading scanned IDs...
+21-01-2025 18:23:59: [DEBUG] Reading Excel file: C:\Users\Public\ScannedData.xlsx
+21-01-2025 18:23:59: [ERROR] Error reloading scanned IDs: Please set the ExcelPackage.LicenseContext property. See https://epplussoftware.com/developers/licenseexception

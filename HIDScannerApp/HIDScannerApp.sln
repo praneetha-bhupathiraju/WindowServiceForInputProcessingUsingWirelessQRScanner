@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIDScannerApp", "HIDScannerApp\HIDScannerApp.csproj", "{A8818B7B-46A5-4163-8F5E-9C4091399F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIDScannerService", "..\HIDScannerService\HIDScannerService\HIDScannerService.csproj", "{88CE7B29-5E39-42DD-9692-4CE878E1F82C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8818B7B-46A5-4163-8F5E-9C4091399F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8818B7B-46A5-4163-8F5E-9C4091399F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8818B7B-46A5-4163-8F5E-9C4091399F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8818B7B-46A5-4163-8F5E-9C4091399F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CE7B29-5E39-42DD-9692-4CE878E1F82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CE7B29-5E39-42DD-9692-4CE878E1F82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CE7B29-5E39-42DD-9692-4CE878E1F82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CE7B29-5E39-42DD-9692-4CE878E1F82C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
