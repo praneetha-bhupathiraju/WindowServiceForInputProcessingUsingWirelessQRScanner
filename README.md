@@ -1,0 +1,1 @@
+This is a Windows service which uses C#, .NET Core, and WPF to connect a Bluetooth QR scanner, capture the scanned data, and save it directly to an Excel sheet. The service provides a user-friendly interface through WPF, streamlining data collection and reducing manual entry while ensuring everything is well-organized and easily accessible.
